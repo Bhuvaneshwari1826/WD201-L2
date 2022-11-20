@@ -1,0 +1,19 @@
+{
+  "name": "reg-form",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bhuvaneshwari1826/WD201-L2.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Bhuvaneshwari1826/WD201-L2/issues"
+  },
+  "homepage": "https://github.com/Bhuvaneshwari1826/WD201-L2#readme"
+}
